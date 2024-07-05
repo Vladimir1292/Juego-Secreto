@@ -113,7 +113,7 @@ button {
 #nombre {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 15px;
     font-size: 12px;
     color: grey;
     z-index: 9999;  /* Asegúrate de que esté sobre todos los demás elementos */
