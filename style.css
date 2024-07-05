@@ -112,8 +112,8 @@ button {
 
 #nombre {
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 20px;
+    right: 8px;
     font-size: 14px;
     color: grey;
 }
