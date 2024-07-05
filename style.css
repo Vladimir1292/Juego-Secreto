@@ -112,8 +112,11 @@ button {
 
 #nombre {
     position: fixed;
-    bottom: 29px;
-    right: 5px;
-    font-size: 13px;
+    bottom: 20px;
+    right: 20px;
+    font-size: 12px;
     color: grey;
+    z-index: 9999;  /* Asegúrate de que esté sobre todos los demás elementos */
+    white-space: nowrap;  /* Evita que el texto se divida en varias líneas */
 }
+
